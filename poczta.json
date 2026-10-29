@@ -1,0 +1,28 @@
+{
+  "messages": [
+    {
+      "date": "29.10.2026",
+      "title": {
+        "pl": "Nowe wydarzenie sezonowe!",
+        "en": "New Seasonal Event!",
+        "de": "Neues saisonales Event!"
+      },
+      "body": {
+        "pl": "Witajcie gracze! Właśnie wystartowało nowe wydarzenie. Sprawdźcie zakładkę Eventy w menu głównym.",
+        "en": "Hello players! A new event has just started. Check the Events tab in the main menu.",
+        "de": "Hallo Spieler! Ein neues Event hat gerade begonnen. Schaut im Hauptmenü vorbei."
+      }
+    },
+    {
+      "date": "25.10.2026",
+      "title": {
+        "pl": "Prace konserwacyjne",
+        "en": "Server Maintenance"
+      },
+      "body": {
+        "pl": "Naprawiliśmy błędy związane z wyświetlaniem czcionek w niektórych wersjach językowych.",
+        "en": "We fixed bugs related to font rendering in certain localized versions."
+      }
+    }
+  ]
+}
